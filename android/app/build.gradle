@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.salary_calculator_flutter_app"
+    namespace "com.ethiosalarycaclulator.app"
     compileSdk flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
